@@ -6,4 +6,5 @@ uvicorn
 pydantic
 statsmodels
 numpy
-pandas
+panda
+pytest
