@@ -1,0 +1,8 @@
+{
+  "roc_auc": {
+    "Dummy": 0.5,
+    "LogisticRegression": 0.9942262781070068,
+    "RandomForest": 0.9889934595880577
+  },
+  "best": "LogisticRegression"
+}
