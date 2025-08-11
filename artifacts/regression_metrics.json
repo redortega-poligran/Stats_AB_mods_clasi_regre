@@ -1,0 +1,45 @@
+{
+  "results": {
+    "DummyRegressor": {
+      "MAE_mean": 65.978705,
+      "RMSE_mean": 77.193405,
+      "R2_mean": -0.019355
+    },
+    "LinearRegression": {
+      "MAE_mean": 44.269746,
+      "RMSE_mean": 54.848941,
+      "R2_mean": 0.47847
+    },
+    "RandomForest": {
+      "MAE_mean": 46.766546,
+      "RMSE_mean": 57.552557,
+      "R2_mean": 0.427227
+    }
+  },
+  "ranking_by_RMSE": [
+    [
+      "LinearRegression",
+      {
+        "MAE_mean": 44.269746,
+        "RMSE_mean": 54.848941,
+        "R2_mean": 0.47847
+      }
+    ],
+    [
+      "RandomForest",
+      {
+        "MAE_mean": 46.766546,
+        "RMSE_mean": 57.552557,
+        "R2_mean": 0.427227
+      }
+    ],
+    [
+      "DummyRegressor",
+      {
+        "MAE_mean": 65.978705,
+        "RMSE_mean": 77.193405,
+        "R2_mean": -0.019355
+      }
+    ]
+  ]
+}
